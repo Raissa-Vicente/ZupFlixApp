@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ZupFlixApp</string>
+    <string name="step_1_to_2">PASSO 1 DE 2</string>
+    <string name="create_your_account">Crie sua conta</string>
+    <string name="go_continue">Entrar</string>
+    <string name="text_content">Assista onde quiser!</string>
+    <string name="text">Assinantes da ZupFlix podem assistir aqui no aplicativo.</string>
+    <string name="login">Login</string>
+    <string name="user">Usuario</string>
+    <string name="password">Senha</string>
+    <string name="forget_your_password">Esqueceu sua senha?</string>
+    <string name="button_login">Login</string>
+    <string name="dont_have_an_account">Não tem uma conta</string>
+    <string name="register_now">Cadastre-se aqui!</string>
+    <string name="whats_would_you_like_to_watch">O que você gostaria de assistir?</string>
+    <string name="seach_movies">Pesquisar filmes</string>
+    <string name="new_movies">Novos Filmes</string>
+    <string name="upcomming_movies">Filmes Populares</string>
+</resources>
